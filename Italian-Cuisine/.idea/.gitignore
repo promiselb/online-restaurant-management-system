@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# ignore the caches directory
+# and the .idea directory itself
+Italian-Cuisine/.idea/caches/
+# ignore the .idea directory
+Italian-Cuisine/.idea
