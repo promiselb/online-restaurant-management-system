@@ -16,6 +16,9 @@ The scope of this project is as follows:
 ## The CMD (Le MCD)
 <img width="853" height="710" alt="image" src="https://github.com/user-attachments/assets/8172c6d5-bb0f-4e09-bedf-0226745562d2" />
 
+## NO OFFENSE IS INTENDED!
+It was a coincidence that the template is about an italian cuisine. Altough the data provided in the database doesn't look much italian. It is clearly for educational purposes. No offense is intended for the italian food if any misunderstanding occurs!!!
+
 ## Contributors
 [Mahmoud Mnajjed](https://github.com/)
 [Waed Mansour](https://github.com/promiselb)
