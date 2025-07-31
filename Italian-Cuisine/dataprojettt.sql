@@ -110,18 +110,6 @@ CREATE TABLE AdminSecretKey (
     CreatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-
--- Reservation table 
--- OLD
--- CREATE TABLE reservations (
---     id INT AUTO_INCREMENT PRIMARY KEY,
---     date DATE,
---     time TIME,
---     party_size INT,
---     client_id INT,
---     FOREIGN KEY (client_id) REFERENCES Client(AccountId) ON DELETE CASCADE
--- );
-
 --  NEW TABLES FOR RESERVATIONS
 CREATE TABLE reservations (
   id int NOT NULL AUTO_INCREMENT,
