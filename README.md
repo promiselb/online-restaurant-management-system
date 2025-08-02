@@ -1,6 +1,6 @@
 # Online Restaurant Management System
 ## Project Purpose
-The purpose of this project is to implement web development techniques and priciples as demanded by [CNAM University](https://si.isae.edu.lb/) in this UE ([Développement web (3) : mise en pratique](https://formation.cnam.fr/rechercher-par-discipline/developpement-web-3-mise-en-pratique-208576.kjsp?RF=&EXT=cnam))
+The purpose of this project is to implement web development techniques and principles as demanded by [CNAM University](https://si.isae.edu.lb/) in this UE ([Développement web (3) : mise en pratique](https://formation.cnam.fr/rechercher-par-discipline/developpement-web-3-mise-en-pratique-208576.kjsp?RF=&EXT=cnam))
 
 ## Project Goal
 The goal is to allow an easy and secure way for a restaurant to manage its database of clients, products, categories etc... at real-time.
