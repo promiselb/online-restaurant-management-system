@@ -168,7 +168,9 @@ if (isset($_GET['delete'])) {
 <footer id="footer" class="bg-light text-dark py-3">
     <div class="container text-center">
         <p>&copy; All Rights Reserved - <a href="index.php">Italian Cuisine</a></p>
-        <p>Designed by <a href="https://www.instagram.com/6_9oe?igsh=MXdza3VmcXUwNXphZg==">Mahmoud Mnajed</a></p>
+        <p>Designed By 
+            <a href="https://www.linkedin.com/in/waed-mansour-19ba52324/">Waed Mansour</a> &amp;
+            <a href="https://www.instagram.com/6_9oe?igsh=MXdza3VmcXUwNXphZg==">Mahmoud Mnajed</a>
     </div>
 </footer>
 

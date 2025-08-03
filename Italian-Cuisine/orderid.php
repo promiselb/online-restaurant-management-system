@@ -149,7 +149,9 @@ if (!empty($order['DeliveryManId'])) {
             <div class="col-sm-6">
                 <div class="copyright">
                     <p>&copy; <?= date('Y') ?> <a href="index.php">Italian Cuisine</a>. All Rights Reserved</p>
-                    <p>Designed By <a href="https://www.instagram.com/6_9oe">Mahmoud Mnajed</a></p>
+                    <p>Designed By 
+                        <a href="https://www.linkedin.com/in/waed-mansour-19ba52324/">Waed Mansour</a> &amp;
+                        <a href="https://www.instagram.com/6_9oe?igsh=MXdza3VmcXUwNXphZg==">Mahmoud Mnajed</a>
                 </div>
             </div>
             <div class="col-sm-6">

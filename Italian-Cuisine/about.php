@@ -221,27 +221,6 @@ session_start();
         </section>
         <!-- Team Section End -->
 
-        <!-- Subscriber Section Start 
-        <section id="subscriber">
-            <div class="container">
-                <div class="section-header">
-                    <h3>Get Latest Food Info</h3>
-                </div>
-
-                <div class="row">
-                    <div class="col-12">
-                        <form class="form-inline">
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Enter Your Email">
-                            </div>
-                            <button type="submit" class="btn">Submit</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </section>
-         Subscriber Section end -->
-
         <!-- Footer Start -->
         <footer id="footer">
             <div class="container">
@@ -251,7 +230,10 @@ session_start();
 							<p>&copy; Copyright <a href="">Italian Cusine</a>. All Rights Reserved</p>
 							
 							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							<p>Designed By <a href="https://www.instagram.com/6_9oe?igsh=MXdza3VmcXUwNXphZg==">Mahmoud Mnajed</a></p>
+							<p>Designed By 
+                                <a href="https://www.linkedin.com/in/waed-mansour-19ba52324/">Waed Mansour</a> &amp;
+                                <a href="https://www.instagram.com/6_9oe?igsh=MXdza3VmcXUwNXphZg==">Mahmoud Mnajed</a>
+                            </p>
 						</div>
                     </div>
                     <div class="col-sm-6">
