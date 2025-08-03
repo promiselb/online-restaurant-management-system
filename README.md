@@ -30,7 +30,11 @@ The purpose of this project is to implement web development techniques and princ
 - 🔐 Basic access control for admin dashboard
 
 ## 📸 Screenshots
-> *(Add screenshots here by uploading them to the repo or using links)*
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/f9d8500a-d76d-42ee-b50f-300e599bd630" />
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/94beb490-5efc-414b-8fce-6148d14888e9" />
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/39def62f-63dc-4ece-8e38-82e403028367" />
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/58c221f8-25a2-4e5c-8dc4-d60f597da2fc" />
+
 
 ## 🧰 Technologies Used
 
