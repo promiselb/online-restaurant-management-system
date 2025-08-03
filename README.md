@@ -112,7 +112,7 @@ This project is licensed under the [MIT License](LICENSE), except for third-part
 The HTML/CSS/JS front-end template is based on the [Restaurant Template](https://htmlcodex.com/demo/?item=140) by [HTML Codex](https://htmlcodex.com/), used under their [Free License](https://htmlcodex.com/license).  
 Please respect their license terms if reusing or redistributing the template code.  
 
-## Authors
-[Mahmoud Mnajjed](https://github.com/)
+## 👤 Authors
+[Mahmoud Mnajjed](https://github.com/mahmoudmnajed)
 [Waed Mansour](https://github.com/promiselb)
 
