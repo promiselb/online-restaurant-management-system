@@ -1,65 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Italian Cuisine</title>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="" name="keywords">
-        <meta content="" name="description">
 
-        <!-- Favicons -->
-        <link href="img/favicon.ico" rel="icon">
-        <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-
-        <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600|Pacifico" rel="stylesheet"> 
-
-        <!-- Bootstrap CSS File -->
-        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-        <!-- Libraries CSS Files -->
-        <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <link href="vendor/animate/animate.min.css" rel="stylesheet">
-        <link href="vendor/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-        <link href="vendor/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
-
-        <!-- Main Stylesheet File -->
-        <link href="css/style.css" rel="stylesheet">
-    </head>
-
-    <body>
-
-        <!-- Top Header Start -->
-        <section id="top-header">
-            <div class="logo">
-                <img src="img/logo.png" />
-            </div>
-        </section>
-        <!-- Top Header End -->
-
-        <!-- Header Start -->
-        <header id="header">
-            <div class="container">
-                <nav id="nav-menu-container">
-                    <ul class="nav-menu">
-                        <li><a href="profile.php">👥</a></li>
-                        <?php if (!isset($_SESSION['gmail'])): ?>
-        <li><a href="login.php">Login</a></li>
-    <?php endif; ?>
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="about.php">About</a></li>
-                        <li><a href="menu.php">Menu</a></li>
-                      <!--<li><a href="order.php">Online Order</a></li> -->                                
-                        <li><a href="contact.php">Contact</a></li>
-                        <li><a href="cart.php">🛒</a></li>
-                        <?php if (isset($_SESSION['gmail'])): ?>
-    <li><a href="logout.php">Logout</a></li>
-<?php endif; ?>
-                    </ul>
-                </nav>
-            </div>
-        </header>
-          <!-- Header End -->
 <?php
 require_once 'functions.php';
 $options = [
@@ -84,7 +23,32 @@ try {
 <head>
     <meta charset="UTF-8">
     <title>Contact Messages</title>
+    <meta charset="utf-8">
+        <title>Italian Cuisine</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="" name="keywords">
+        <meta content="" name="description">
+
+        <!-- Favicons -->
+        <link href="img/favicon.ico" rel="icon">
+        <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600|Pacifico" rel="stylesheet"> 
+
+        <!-- Bootstrap CSS File -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Libraries CSS Files -->
+        <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link href="vendor/animate/animate.min.css" rel="stylesheet">
+        <link href="vendor/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="vendor/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+
+        <!-- Main Stylesheet File -->
+        <link href="css/style.css" rel="stylesheet">
     <style>
+        
         table { border-collapse: collapse; width: 100%; }
         th, td { border: 1px solid #aaa; padding: 8px; }
         th { background: #eee; }
